@@ -1,12 +1,12 @@
 #print statement
 print "I will now count my chickens:"
 #adds up hens and roosters
-print "Hens", 25 + 30 / 6
-print "Roosters", 100 - 25 * 3 % 4
+print "Hens", 25 + 30 / 6.0
+print "Roosters", 100 - 25 * 3 % 4.0
 #statement of counting eggs
 print "Now I will count the eggs:"
 #adding up the eggs
-print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6.0
 #posing a question
 print 'Is it true that 3 + 2 < 5 - 7'
 #mathematical equation
